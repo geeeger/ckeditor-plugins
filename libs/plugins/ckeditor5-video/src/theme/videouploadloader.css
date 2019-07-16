@@ -1,0 +1,33 @@
+.ck-video-upload-placeholder-loader {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+
+    &::before {
+        content: '';
+        position: relative;
+    }
+}
+
+.ck .ck-video-upload-placeholder {
+    /* We need to control the full width of the SVG gray background. */
+    width: 100%;
+    margin: 0;
+}
+
+.ck .ck-video-upload-placeholder-loader {
+    width: 100%;
+    height: 100%;
+
+    &::before {
+        width: var(--ck-upload-placeholder-loader-size);
+        height: var(--ck-upload-placeholder-loader-size);
+        border-radius: 50%;
+        border-top: 3px solid var(--ck-color-upload-placeholder-loader);
+        border-right: 2px solid transparent;
+        animation: ck-upload-placeholder-loader 1s linear infinite;
+    }
+}

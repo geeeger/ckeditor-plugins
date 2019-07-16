@@ -1,0 +1,23 @@
+:root {
+    --ck-video-upload-progress-line-width: 30px;
+}
+
+.ck-content .video {
+    position: relative;
+    overflow: hidden;
+
+    &.ck-appear {
+        animation: fadeIn 700ms;
+    }
+
+    /* Upload progress bar. */
+    & .ck-video-progress-bar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 2px;
+        width: 0;
+        background: var(--ck-color-upload-bar-background);
+        transition: width 100ms;
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Default color": "Dropdown option label for the default font color.",
+    "Yellow": "Dropdown option label for the 'yellow' font color preset.",
+    "Green": "Dropdown option label for the 'Green' font color preset.",
+    "Pink": "Dropdown option label for the 'Pink' font color preset.",
+    "Blue": "Dropdown option label for the 'Blue' font color preset.",
+    "Red": "Dropdown option label for the 'Red' font color preset.",
+    "Black": "Dropdown option label for the 'Black' font color preset.",
+    "Gray": "Dropdown option label for the 'Gray' font color preset."
+}

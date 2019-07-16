@@ -1,0 +1,42 @@
+# Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+msgid ""
+msgstr ""
+"Language-Team: \n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Dropdown option label for the default font color."
+msgid "Default color"
+msgstr "默认"
+
+msgctxt "Tooltip for the font color dropdown."
+msgid "Font Color"
+msgstr "字体颜色"
+
+msgctxt "Dropdown option label for the 'yellow' font color preset."
+msgid "Yellow"
+msgstr "黄色"
+
+msgctxt "Dropdown option label for the 'Green' font color preset."
+msgid "Green"
+msgstr "绿色"
+
+msgctxt "Dropdown option label for the 'Pink' font color preset."
+msgid "Pink"
+msgstr "粉色"
+
+msgctxt "Dropdown option label for the 'Blue' font color preset."
+msgid "Blue"
+msgstr "蓝色"
+
+msgctxt "Dropdown option label for the 'Red' font color preset."
+msgid "Red"
+msgstr "红色"
+
+msgctxt "Dropdown option label for the 'Black' font color preset."
+msgid "Black"
+msgstr "黑色"
+
+msgctxt "Dropdown option label for the 'Gray' font color preset."
+msgid "Gray"
+msgstr "灰色"

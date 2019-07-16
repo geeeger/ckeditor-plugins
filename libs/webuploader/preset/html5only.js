@@ -1,0 +1,10 @@
+import Base from "../base";
+import "../widgets/queue";
+import "../widgets/runtime";
+import "../widgets/upload";
+import "../widgets/validator";
+import "../widgets/md5";
+import "../runtime/html5/blob";
+import "../runtime/html5/transport";
+import "../runtime/html5/md5";
+export default Base;
